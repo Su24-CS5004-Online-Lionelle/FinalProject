@@ -32,7 +32,7 @@
 	8.	Display Temporal Data
 	    •	If items have temporal data, use timeline components in ItemDetailPanel to display them.
 
-
+![demo](DesignDocuments/Ux_demo/demo.png)
 ## Timeline
 ### Week 1: Basic Methods Development
 
