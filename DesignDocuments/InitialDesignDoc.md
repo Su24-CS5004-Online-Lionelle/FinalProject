@@ -84,3 +84,5 @@
         ItemController --> ItemDetailPanel
         ItemModel --> Item
     ```
+    ``````
+    ### Function
