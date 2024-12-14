@@ -5,7 +5,7 @@ The final product you are building is an application that focuses on managing a 
 However, in order to keep the projects similar, we are going to have a set of requirements that all projects must meet, and a set of requirements that vary based on the size of the project group. This document highlights both, along with how we will grade your final product code and design documents. 
 
 
-## Documentation Requirements
+## Documentation Requirements 
 
 All projects must have the following documentation:
 

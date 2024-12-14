@@ -1,0 +1,50 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which country hosted the 2018 FIFA World Cup?",
+        "correct_answer": "Russia",
+        "incorrect_answers": [
+            "Germany",
+            "United States",
+            "Saudi Arabia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who did Steven Gerrard win the Champions League with?",
+        "correct_answer": "Liverpool",
+        "incorrect_answers": [
+            "Real Madrid",
+            "Chelsea",
+            "Man City"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who was the first President of the United States?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+            "Thomas Jefferson",
+            "John Adams",
+            "James Madison"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "Test?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+            "Thomas Jefferson",
+            "John Adams",
+            "James Madison"
+        ]
+    }
+]

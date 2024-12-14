@@ -16,7 +16,7 @@ repositories {
 }
 
 application {
-    mainClass.set("") /** Update with your main driver app location */
+    mainClass.set("group8.TriviaApp") /** Update with your main driver app location */
 }
 
 dependencies {
@@ -39,8 +39,14 @@ dependencies {
     implementation 'com.fasterxml.woodstox:woodstox-core:6.5.0'
     // jackson dataformat csv
     implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.13.0'
+    // flatlaf look and feel
+    implementation 'com.formdev:flatlaf:3.5'
 }
 
 test {
     useJUnitPlatform()
+
+    testLogging {
+        showStandardStreams = true
+    }
 }
