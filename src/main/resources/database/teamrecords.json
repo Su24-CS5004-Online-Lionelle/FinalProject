@@ -1,0 +1,8349 @@
+[ {
+  "name" : "bulbasaur",
+  "id" : 1,
+  "height" : 7,
+  "weight" : 69,
+  "moves" : [ {
+    "move" : {
+      "name" : "razor-wind",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "swords-dance",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "cut",
+      "details" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 50,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 50,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "bind",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 15,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 15,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "vine-whip",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 45,
+        "pp" : 25
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 45,
+        "pp" : 25
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "headbutt",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "tackle",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 35
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 35
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "body-slam",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 85,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 85,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "take-down",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "double-edge",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "growl",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "strength",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "mega-drain",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "leech-seed",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "growth",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "razor-leaf",
+      "details" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 55,
+        "pp" : 25
+      },
+      "moveDetails" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 55,
+        "pp" : 25
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "solar-beam",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 120,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 120,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "poison-powder",
+      "details" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 35
+      },
+      "moveDetails" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 35
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "sleep-powder",
+      "details" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "petal-dance",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 120,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 120,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "string-shot",
+      "details" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      },
+      "moveDetails" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "toxic",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rage",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 20,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 20,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "mimic",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "double-team",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "defense-curl",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "light-screen",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "reflect",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "bide",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "sludge",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 65,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 65,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "skull-bash",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 130,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 130,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "amnesia",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "flash",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rest",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "substitute",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "snore",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "curse",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "protect",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "sludge-bomb",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "mud-slap",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 20,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 20,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "outrage",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "giga-drain",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 75,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 75,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "endure",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "charm",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "false-swipe",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 40
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 40
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "swagger",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "fury-cutter",
+      "details" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "attract",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "sleep-talk",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "return",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "frustration",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "safeguard",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 25
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 25
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "sweet-scent",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "synthesis",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "hidden-power",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "sunny-day",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rock-smash",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "facade",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "nature-power",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "helping-hand",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "ingrain",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "knock-off",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 65,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 65,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "secret-power",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "weather-ball",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "grass-whistle",
+      "details" : {
+        "accuracy" : 55,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 55,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "bullet-seed",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 25,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 25,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "magical-leaf",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "natural-gift",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "worry-seed",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "seed-bomb",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "energy-ball",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "leaf-storm",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 130,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 130,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "power-whip",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "captivate",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "grass-knot",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "venoshock",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 65,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 65,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "acid-spray",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "round",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "echoed-voice",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "grass-pledge",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "work-up",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "grassy-terrain",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "confide",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "grassy-glide",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 55,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 55,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "tera-blast",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "trailblaze",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 50,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 50,
+        "pp" : 20
+      }
+    }
+  } ],
+  "types" : [ {
+    "type" : {
+      "name" : "grass"
+    }
+  }, {
+    "type" : {
+      "name" : "poison"
+    }
+  } ],
+  "sprites" : {
+    "backDefault" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png",
+    "frontDefault" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+  },
+  "order" : 1
+}, {
+  "name" : "vulpix",
+  "id" : 37,
+  "height" : 6,
+  "weight" : 99,
+  "moves" : [ {
+    "move" : {
+      "name" : "headbutt",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "tackle",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 35
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 35
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "body-slam",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 85,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 85,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "take-down",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "double-edge",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "tail-whip",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "roar",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "disable",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "ember",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 25
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 25
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "flamethrower",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "fire-spin",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 35,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 35,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "dig",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "toxic",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "hypnosis",
+      "details" : {
+        "accuracy" : 60,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 60,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "agility",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "quick-attack",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rage",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 20,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 20,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "mimic",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "double-team",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "confuse-ray",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "reflect",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "bide",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "fire-blast",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 110,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 110,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "swift",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "skull-bash",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 130,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 130,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rest",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "substitute",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "snore",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "curse",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "flail",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "spite",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "protect",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "feint-attack",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "endure",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "charm",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "swagger",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "attract",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "sleep-talk",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "return",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "frustration",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "safeguard",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 25
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 25
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "pain-split",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "baton-pass",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "encore",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "iron-tail",
+      "details" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 100,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 100,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "hidden-power",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "sunny-day",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "psych-up",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "heat-wave",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 95,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 95,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "will-o-wisp",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "memento",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "facade",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "helping-hand",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "role-play",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "imprison",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "grudge",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "secret-power",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "weather-ball",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "overheat",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 130,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 130,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "extrasensory",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "howl",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "covet",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 25
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 25
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "healing-wish",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "natural-gift",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "payback",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 50,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 50,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "power-swap",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "flare-blitz",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "dark-pulse",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "energy-ball",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "nasty-plot",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "zen-headbutt",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "captivate",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "ominous-wind",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "flame-burst",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 70,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 70,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "flame-charge",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 50,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 50,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "foul-play",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 95,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 95,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "round",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "hex",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 65,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 65,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "incinerate",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "inferno",
+      "details" : {
+        "accuracy" : 50,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 100,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 50,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 100,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "tail-slap",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 25,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 25,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "snarl",
+      "details" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 55,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 55,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "confide",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "mystical-fire",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 75,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 75,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "baby-doll-eyes",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "burning-jealousy",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 70,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 70,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "tera-blast",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 10
+      }
+    }
+  } ],
+  "types" : [ {
+    "type" : {
+      "name" : "fire"
+    }
+  } ],
+  "sprites" : {
+    "backDefault" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/37.png",
+    "frontDefault" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png"
+  },
+  "order" : 66
+}, {
+  "name" : "pikachu",
+  "id" : 25,
+  "height" : 4,
+  "weight" : 60,
+  "moves" : [ {
+    "move" : {
+      "name" : "mega-punch",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "pay-day",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "thunder-punch",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "slam",
+      "details" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "double-kick",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 30,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 30,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "mega-kick",
+      "details" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "headbutt",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "body-slam",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 85,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 85,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "take-down",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "double-edge",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "tail-whip",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "growl",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "surf",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "submission",
+      "details" : {
+        "accuracy" : 80,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 80,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "counter",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "seismic-toss",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "strength",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "thunder-shock",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "thunderbolt",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "thunder-wave",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "thunder",
+      "details" : {
+        "accuracy" : 70,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 110,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 70,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 110,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "dig",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "toxic",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "agility",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "quick-attack",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rage",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 20,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 20,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "mimic",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "double-team",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "defense-curl",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "light-screen",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "reflect",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "bide",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "swift",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "skull-bash",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 130,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 130,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "flash",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rest",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "substitute",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "thief",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 25
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 25
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "snore",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "curse",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "reversal",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "protect",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "sweet-kiss",
+      "details" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "mud-slap",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 20,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 20,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "zap-cannon",
+      "details" : {
+        "accuracy" : 50,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 120,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 50,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 120,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "detect",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "endure",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "charm",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rollout",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 30,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 30,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "swagger",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "spark",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 65,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 65,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "attract",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "sleep-talk",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "return",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "frustration",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "dynamic-punch",
+      "details" : {
+        "accuracy" : 50,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 100,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 50,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 100,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "encore",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "iron-tail",
+      "details" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 100,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 100,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "hidden-power",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rain-dance",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rock-smash",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "uproar",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "facade",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "focus-punch",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 150,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 150,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "charge",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "helping-hand",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "brick-break",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "knock-off",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 65,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 65,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "endeavor",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "secret-power",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "fake-tears",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "signal-beam",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 75,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 75,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "covet",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 25
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 25
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "volt-tackle",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "calm-mind",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "shock-wave",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "natural-gift",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "feint",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 30,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 30,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "fling",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "magnet-rise",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "nasty-plot",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "discharge",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "captivate",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "grass-knot",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "charge-beam",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "electro-ball",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "round",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "echoed-voice",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "volt-switch",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 70,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 70,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "electroweb",
+      "details" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 55,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 55,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "wild-charge",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "disarming-voice",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "draining-kiss",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "play-rough",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "play-nice",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "confide",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "eerie-impulse",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "electric-terrain",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "nuzzle",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 20,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 20,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "laser-focus",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rising-voltage",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 70,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 70,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "tera-blast",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "trailblaze",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 50,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 50,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "alluring-voice",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "upper-hand",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 65,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 65,
+        "pp" : 15
+      }
+    }
+  } ],
+  "types" : [ {
+    "type" : {
+      "name" : "electric"
+    }
+  } ],
+  "sprites" : {
+    "backDefault" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/25.png",
+    "frontDefault" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+  },
+  "order" : 35
+}, {
+  "name" : "snorlax",
+  "id" : 143,
+  "height" : 21,
+  "weight" : 4600,
+  "moves" : [ {
+    "move" : {
+      "name" : "mega-punch",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "pay-day",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "fire-punch",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "ice-punch",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "thunder-punch",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "whirlwind",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "mega-kick",
+      "details" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 75,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "headbutt",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "tackle",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 35
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 35
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "body-slam",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 85,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 85,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "take-down",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "double-edge",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "bite",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 25
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 25
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "flamethrower",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "water-gun",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 25
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 40,
+        "pp" : 25
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "hydro-pump",
+      "details" : {
+        "accuracy" : 80,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 110,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 80,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 110,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "surf",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "ice-beam",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "blizzard",
+      "details" : {
+        "accuracy" : 70,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 110,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 70,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 110,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "bubble-beam",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 65,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 65,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "hyper-beam",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 150,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 150,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "submission",
+      "details" : {
+        "accuracy" : 80,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 80,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "counter",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "seismic-toss",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "strength",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "solar-beam",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 120,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 120,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "thunderbolt",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "thunder",
+      "details" : {
+        "accuracy" : 70,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 110,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 70,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 110,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "earthquake",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 100,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 100,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "fissure",
+      "details" : {
+        "accuracy" : 30,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 30,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "dig",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "toxic",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "psychic",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rage",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 20,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 20,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "mimic",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "screech",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "double-team",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "harden",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "defense-curl",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 40
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "reflect",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "bide",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "metronome",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "self-destruct",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 200,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 200,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "lick",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 30,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 30,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "fire-blast",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 110,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 110,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "skull-bash",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 130,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 130,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "amnesia",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "psywave",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rest",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rock-slide",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "substitute",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "snore",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "curse",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "flail",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "protect",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "belly-drum",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "mud-slap",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 20,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 20,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "zap-cannon",
+      "details" : {
+        "accuracy" : 50,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 120,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 50,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 120,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "icy-wind",
+      "details" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 55,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 55,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "outrage",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "sandstorm",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "endure",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "charm",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rollout",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 30,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 30,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "swagger",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "attract",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "sleep-talk",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "return",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "frustration",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "dynamic-punch",
+      "details" : {
+        "accuracy" : 50,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 100,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 50,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 100,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "encore",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "pursuit",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "hidden-power",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rain-dance",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "sunny-day",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "crunch",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "psych-up",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "shadow-ball",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rock-smash",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "whirlpool",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 35,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 35,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "uproar",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "stockpile",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "swallow",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "facade",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "focus-punch",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 150,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 150,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "helping-hand",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "superpower",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "recycle",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "brick-break",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "yawn",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "snatch",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "secret-power",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "hyper-voice",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 90,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rock-tomb",
+      "details" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "block",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "covet",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 25
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 25
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "shock-wave",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "water-pulse",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "hammer-arm",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 100,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 100,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "natural-gift",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "fling",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "gastro-acid",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "last-resort",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 140,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 140,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "seed-bomb",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "focus-blast",
+      "details" : {
+        "accuracy" : 70,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 120,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 70,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 120,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "giga-impact",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 150,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 150,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "zen-headbutt",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "rock-climb",
+      "details" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 85,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "gunk-shot",
+      "details" : {
+        "accuracy" : 80,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 80,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 120,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "iron-head",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "captivate",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "smack-down",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 50,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 50,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "heavy-slam",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "after-you",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "round",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "chip-away",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "incinerate",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 60,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "retaliate",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 70,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "bulldoze",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 60,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "work-up",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 30
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "wild-charge",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 90,
+        "pp" : 15
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "heat-crash",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "belch",
+      "details" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 120,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 90,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 120,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "confide",
+      "details" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 0,
+        "damage_class" : {
+          "name" : "status"
+        },
+        "power" : 0,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "power-up-punch",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 40,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "darkest-lariat",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 85,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 85,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "high-horsepower",
+      "details" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 95,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 95,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "stomping-tantrum",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 75,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "body-press",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 80,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "steel-roller",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 130,
+        "pp" : 5
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 130,
+        "pp" : 5
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "terrain-pulse",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "tera-blast",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 80,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "trailblaze",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 50,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 50,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "chilling-water",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 20
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "special"
+        },
+        "power" : 50,
+        "pp" : 20
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "hard-press",
+      "details" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      },
+      "moveDetails" : {
+        "accuracy" : 100,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 0,
+        "pp" : 10
+      }
+    }
+  }, {
+    "move" : {
+      "name" : "supercell-slam",
+      "details" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 100,
+        "pp" : 15
+      },
+      "moveDetails" : {
+        "accuracy" : 95,
+        "damage_class" : {
+          "name" : "physical"
+        },
+        "power" : 100,
+        "pp" : 15
+      }
+    }
+  } ],
+  "types" : [ {
+    "type" : {
+      "name" : "normal"
+    }
+  } ],
+  "sprites" : {
+    "backDefault" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/143.png",
+    "frontDefault" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
+  },
+  "order" : 235
+} ]
